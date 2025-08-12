@@ -1,0 +1,6 @@
+/models
+/results
+
+*.csv
+*.html
+*.txt
